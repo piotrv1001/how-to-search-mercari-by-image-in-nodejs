@@ -1,0 +1,62 @@
+[
+  {
+    "searchImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nike_Air_Jordan_I.jpg/960px-Nike_Air_Jordan_I.jpg",
+    "position": 1,
+    "id": "2JWYZxHqSZfrFU8pDm8TzD",
+    "url": "https://jp.mercari.com/shops/product/2JWYZxHqSZfrFU8pDm8TzD",
+    "name": "ナイキ NIKE Air Jordan 1 High OG \"Lost & Found/Chicago\" エアジョーダン1 ハイ OG \"ロスト&ファウンド/シカゴ\"  スニーカー 赤 レッド 27㎝ DZ5485-612",
+    "price": 25900,
+    "currency": "JPY",
+    "status": "ITEM_STATUS_SOLD_OUT",
+    "itemType": "ITEM_TYPE_BEYOND",
+    "isShopsItem": true,
+    "brandName": "NIKE",
+    "brandId": "857",
+    "categoryId": 345,
+    "itemConditionId": 3,
+    "condition": "No noticeable scratches or stains",
+    "size": null,
+    "shippingPayerId": 0,
+    "sellerId": null,
+    "shopId": "GqU4Yahsuz6LW3NZZR53T8",
+    "thumbnails": [
+      "https://assets.mercari-shops-static.com/-/small/plain/2JWbCFAH6ahoFnQoUz6NV2.jpg@webp"
+    ],
+    "photos": [
+      "https://assets.mercari-shops-static.com/-/large/plain/2JWbCFAH6ahoFnQoUz6NV2.jpg@webp"
+    ],
+    "created": "2026-09-09T10:26:06.000Z",
+    "updated": "2026-09-10T10:42:38.000Z",
+    "scrapedAt": "2026-10-10T07:28:58.794Z"
+  },
+  {
+    "searchImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nike_Air_Jordan_I.jpg/960px-Nike_Air_Jordan_I.jpg",
+    "position": 7,
+    "id": "m47659420623",
+    "url": "https://jp.mercari.com/item/m47659420623",
+    "name": "NIKE AIR JORDAN 1 HIGH OG スニーカー　26.5cm",
+    "price": 7800,
+    "currency": "JPY",
+    "status": "ITEM_STATUS_SOLD_OUT",
+    "itemType": "ITEM_TYPE_MERCARI",
+    "isShopsItem": false,
+    "brandName": "NIKE",
+    "brandId": "857",
+    "categoryId": 345,
+    "itemConditionId": 3,
+    "condition": "No noticeable scratches or stains",
+    "size": "26.5cm",
+    "shippingPayerId": 2,
+    "sellerId": "386820444",
+    "shopId": null,
+    "thumbnails": [
+      "https://static.mercdn.net/thumb/item/webp/m47659420623_1.jpg?1789176983"
+    ],
+    "photos": [
+      "https://static.mercdn.net/item/detail/webp/photos/m47659420623_1.jpg?1789176983"
+    ],
+    "created": "2026-09-12T01:36:23.000Z",
+    "updated": "2026-09-14T14:05:25.000Z",
+    "scrapedAt": "2026-10-10T07:28:58.794Z"
+  }
+]
